@@ -5,7 +5,7 @@
 #Press right click on project(the one you want to run) - > Run As -> Maven Build.
 #In the goals, enter spring-boot:run
 #Than 
-#Follow this link : https://www.getpostman.com/collections/6dedcbb852a4e62b3cb6
+#Follow this link : https://www.getpostman.com/collections/2899b694e595d1052f3f
 #The link will open in Postman
 #When you open the Postman via this link , you will see a collection named "Spring-boot-server".
 #There will be ready url requests
