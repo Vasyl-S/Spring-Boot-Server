@@ -6,6 +6,8 @@
 #In the goals, enter spring-boot:run
 #Than 
 #Follow this link : https://www.getpostman.com/collections/2899b694e595d1052f3f
+In case the link above will not work , open this one : https://web.postman.co/collections/6632085-68c6474a-4228-44be-a571-52c024f214fc?workspace=7d2ad21c-2c8c-4151-8e4b-fce2f1a9f279
+You can copy this requests into your Postman , when you download it.
 #The link will open in Postman
 #When you open the Postman via this link , you will see a collection named "Spring-boot-server".
 #There will be ready url requests
